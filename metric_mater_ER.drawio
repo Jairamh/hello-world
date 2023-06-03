@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T09:21:20.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="3T_aE3ABBrsKMFhdQrvY" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-03T11:04:08.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57" etag="E4oBYnAONlSWxrhx3_RM" version="21.2.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2797" dy="1343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2956" dy="1744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -886,6 +886,9 @@
         </mxCell>
         <mxCell id="iSJ_3hQ1pYhiKanofVgx-228" value="Run Dir" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#161618;gradientColor=#97d077;strokeWidth=2;shadow=0;fontSize=13;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="1160" y="342" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iSJ_3hQ1pYhiKanofVgx-231" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Metric Master will be implemented as 7-dimensional &lt;b&gt;defaultdict&lt;/b&gt; in Python&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="114" y="74" width="489" height="103" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
