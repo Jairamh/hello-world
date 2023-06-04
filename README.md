@@ -1,4 +1,4 @@
-# hello-world
+# My project
 
 Hey Aliens,
 
